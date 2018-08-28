@@ -1,6 +1,8 @@
-# Proposals
+# 2Miners Bounty 
 
 Are you a blogger, popular website owner or a public person? Do you want to promote 2Miners at your resources? Are you ready to write a post, shoot a video or sing a song? Please feel free to make an issue below describing what you could do and what reward are you looking for. We will check your offer asap and let you know if we accept it.
+
+# Proposals
 
 Any member of the community can create a proposal. A community member can propose any activity that contributes to the improvement of the 2Miners' projects. The proposal creator can himself implement this proposal and receive a payment for it, or leave the proposal open so that other community members can work on it and receive a reward.
 
