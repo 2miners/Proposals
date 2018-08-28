@@ -10,9 +10,9 @@ Follow these steps to submit a proposal:
 
 1. Register a [Github account](http://github.com/).
 
-2. Go to [2Miners proposals/issues](https://github.com/2miners/Proposals).
+2. Go to [2Miners proposals/issues](https://github.com/2miners/Proposals/).
 
-3. Click a [New Issue](https://github.com/2miners/Proposals/new) button.
+3. Click a [New Issue](https://github.com/2miners/Proposals/issues/new) button.
 
 4. Describe your proposal: proposal overview, detailed description and funding goal.
 
